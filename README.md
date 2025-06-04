@@ -5,7 +5,7 @@
 ### <p align="center">[ArXiv]() | [Project Page](https://egom2p.github.io/)
 
 <p align="center">
-  <img width="100%" src="assets/teaser.png"/>
+  <img width="50%" src="assets/teaser.png"/>
 </p><p align="center">
   <b>EgoM2P</b>: A large-scale egocentric multimodal and multitask model, pretrained on eight extensive egocentric datasets. It incorporates four modalities—RGB and depth video, gaze dynamics, and camera trajectories—to handle challenging tasks like monocular egocentric depth estimation, camera tracking, gaze estimation, and conditional egocentric video synthesis. For simplicity, we only visualize four frames here.
 </p>
