@@ -15,5 +15,10 @@
 
 ## Citation
 ```
-
+@article{li2025egom2p,
+    title={EgoM2P: Egocentric Multimodal Multitask Pretraining},
+    author={Li, Gen and Chen, Yutong and Wu, Yiqian and Zhao, Kaifeng and Pollefeys, Marc and Tang, Siyu},
+    journal={arXiv preprint arXiv:2506.07886},
+    year={2025}
+  }
 ```
