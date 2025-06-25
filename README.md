@@ -3,6 +3,7 @@
 ####  <p align="center"> [Gen Li](https://vlg.inf.ethz.ch/team/Gen-Li.html), [Yutong Chen](https://vlg.inf.ethz.ch/team/Yutong-Chen.html), [Yiqian Wu](https://onethousandwu.com/), [Kaifeng Zhao](https://vlg.inf.ethz.ch/team/Kaifeng-Zhao.html), [Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/), [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html)</p>
 
 ### <p align="center">[ArXiv](http://arxiv.org/abs/2506.07886) | [Project Page](https://egom2p.github.io/)
+### <p align="center"> ICCV 2025
 
 <p align="center">
   <img width="50%" src="assets/teaser.png"/>
