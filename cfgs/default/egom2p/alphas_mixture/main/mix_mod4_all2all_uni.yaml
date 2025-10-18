@@ -1,0 +1,15 @@
+sampling_weights: [1.0, 1.0, 1.0, 1.0]
+
+alphas_mixture:
+  tok_rgb:
+    input_alphas: [0.01, 0.1, 1., 10.]
+    target_alphas: [0.01, 0.1, 1., 10.]
+  tok_depth:
+    input_alphas: [0.01, 0.1, 1., 10.]
+    target_alphas: [0.01, 0.1, 1., 10.]
+  tok_gaze:
+    input_alphas: [0.01, 0.1, 1., 10.]
+    target_alphas: [0.01, 0.1, 1., 10.]
+  tok_cam:
+    input_alphas: [0.01, 0.1, 1., 10.]
+    target_alphas: [0.01, 0.1, 1., 10.]
