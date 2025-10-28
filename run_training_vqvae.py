@@ -59,8 +59,7 @@ from torchvision.io import write_video
 import egom2p.utils as utils
 import egom2p.utils.clip as clip
 import egom2p.utils.data_constants as data_constants
-from egom2p.data import (CenterCropImageAugmenter, RandomCropImageAugmenter, NoImageAugmenter,
-                  build_wds_divae_dataloader)
+from egom2p.data.image_augmenter import (CenterCropImageAugmenter, RandomCropImageAugmenter, NoImageAugmenter)
 from egom2p.data.modality_transforms import (UnifiedDataTransform, RGBTransform,
                                             NormalTransform, SAMInstanceTransform)
 from egom2p.data.video_dataset import VideoDataset
