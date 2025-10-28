@@ -18,8 +18,9 @@ import yaml
 
 import egom2p.utils as utils
 
-from egom2p.data import (CenterCropImageAugmenter, EmptyAugmenter,
-                  PreTokenizedImageAugmenter,RandomCropImageAugmenter, build_pretraining_dataset,
+from egom2p.data.image_augmenter import (CenterCropImageAugmenter, EmptyAugmenter,
+                  PreTokenizedImageAugmenter,RandomCropImageAugmenter)
+from egom2p.data.unified_datasets import (build_pretraining_dataset,
                   build_huggingface_pretraining_dataloader,
                   build_wds_pretraining_dataloader)
 from egom2p.data.modality_transforms import CaptionTransform
